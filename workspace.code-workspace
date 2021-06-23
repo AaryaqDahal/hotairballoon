@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"name": "Project-Template-PRO-C35-main",
+			"path": "/"
+		}
+	],
+    "settings": {
+        "files.hotExit": "off",
+        "vsliveshare.join.reload.workspaceId": "9789696D07636C6CC8A4D901313D9C380529",
+        "vsliveshare.join.reload.workspaceFolder": "C:\\Users\\Pradnya\\AppData\\Local\\Temp\\vsliveshare\\tmp-9789696D07636C6CC8A4D901313D9C380529",
+        "vsliveshare.join.correlationId": "",
+        "extensions.ignoreRecommendations": true,
+        "html.autoClosingTags": false,
+        "files.autoSave": "off",
+        "typescript.tsc.autoDetect": "off",
+        "debug.allowBreakpointsEverywhere": true
+    }
+}
